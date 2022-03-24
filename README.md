@@ -7,4 +7,4 @@ I used the postgres database:
 At the file directory
 Command: psql -U dbuser -d dbname -f database-script.sql
 
-In the src folder , open the data_migration_script jupert notebook. 
+In the src folder , open the data_migration_script jupyter notebook. 
